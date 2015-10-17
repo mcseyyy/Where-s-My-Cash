@@ -20,7 +20,8 @@ Note: this repo contains only the backend files (since I worked on this part of 
     
 0.  When you get your money back, just mark the debt as paid in the app.
 
-At any time you can check what is your balance in every group and see who you own money to. If you do not trust our algorithm for removing indirect / circular debt, you can also see the history of transactions in the group
+At any time you can check what is your balance in every group and see who you own money to. If you do not trust our algorithm for removing indirect / circular debt, you can also see the history of transactions in the group.
+
 ![debt](https://cloud.githubusercontent.com/assets/9435724/10561079/e334cbfa-7515-11e5-8858-577285f80c10.png)
 
 ###Team members:
