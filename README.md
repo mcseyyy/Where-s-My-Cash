@@ -6,7 +6,7 @@ This was a project made for the **Mubaloo's 24 hours Appathon held at the Univer
 
 The App keeps track of the shared expenses, who paid them (in total or partial) and who has to pay. It also reduces the number of transactions and eliminates circular/indirect debt.
 
-Note: this repo contains only the backend files (since I worked on this part of the project); the magic of simplifying and removing circular/indirect debt happens in simplify_debt.php
+Note: the heuristic algorithm for simplifying and removing circular/indirect debt happens in /PHP server/simplify_debt.php
 
 ###How it works:
 0. Make a group and invite your friends to it.
